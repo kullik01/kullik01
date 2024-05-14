@@ -4,13 +4,13 @@
   <img src='https://media.giphy.com/media/3o7TKLC8zBUd7eEteE/giphy.gif' width='300'/>
 </div>
 
-<h2>Hey there 🙋‍♀️, I'm Hannah Kullik.</h2>
+<h2>Hey there 🙋🏻‍♀️, I'm Hannah Kullik.</h2>
 
 ---
 ## About Me
-- 👩‍🔬 Student: Currently, I am studying molecular biology at the University of Applied Science in Recklinghausen, Germany.
+- 👩🏻‍💻 Student: Currently, I am studying molecular biology at the University of Applied Science in Recklinghausen, Germany.
 - <img src='https://avatars.githubusercontent.com/u/81388165?v=4' width='15' height='15'/> I’m currently working on programming a plugin for PyMOL.
-- 📫 How to reach me: hannah.kullik@studmail.w-hs.de
+- 📨 How to reach me: hannah.kullik@studmail.w-hs.de
 
 <p align="middle">
   <a href="http://orcid.org/0009-0004-5129-1298">
