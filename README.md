@@ -26,7 +26,7 @@
 ## 🧰 Toolbox
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sokrypton/ColabFold/main/.github/ColabFold_Marv_Logo.png" alt="PyQt" width="40" height="40"/>
+  <img src="https://camo.githubusercontent.com/fdc23e0a63b8ba1cbae448497ee5980d9b523e1303bc54d11c42c09f194b7895/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65362f507974686f6e5f616e645f51742e737667" alt="PyQt" width="40" height="40"/>
   <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="PyMOL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/sokrypton/ColabFold/main/.github/ColabFold_Marv_Logo.png" alt="ColabFold" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
