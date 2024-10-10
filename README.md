@@ -3,7 +3,7 @@
 ---
 ## About Me
 - 👩🏻‍💻 Student: Currently, I am studying molecular biology at the Westphalian University of Applied Science in Recklinghausen, Germany.
-- 💻 I am one half of the lead developers of [PySSA](https://github.com/urban233/PySSA)
+- 💻 I am one half of the lead developers of [PySSA](https://github.com/urban233/PySSA).
   
 ---
 ## 🧰 Toolbox
