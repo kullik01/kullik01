@@ -4,7 +4,12 @@
 ## About Me
 - 👩🏻‍💻 Student: Currently, I am studying molecular biology at the Westphalian University of Applied Science in Recklinghausen, Germany.
 - 💻 I am one half of the lead developers of [PySSA](https://github.com/urban233/PySSA).
-  
+---
+## <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="pymol" width="24" height="24" align="bottom"/> PyMOL related projects
+- Unofficial PyMOL Windows Python Setup - https://github.com/kullik01/pymol-open-source-windows-setup
+- Unofficial PyMOL Linux Python Wheels - https://github.com/kullik01/pymol-open-source-linux-build
+- Unofficial PyMOL Linux Python Setup - https://github.com/kullik01/pymol-open-source-linux-setup <br/>
+Other PyMOL Python Wheels and Setups are available at: https://github.com/urban233
 ---
 ## 🧰 Toolbox
 <p align="center">
