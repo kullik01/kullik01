@@ -1,9 +1,9 @@
-<h2>Hey there 🙋🏻‍♀️, I'm Hannah.</h2>
+<h1>Hey, I'm Hannah 🙋🏻‍♀️</h1>
 
 ---
-## About Me
-- 👩🏻‍💻 Student: Currently, I am studying molecular biology at the Westphalian University of Applied Science in Recklinghausen, Germany.
-- 💻 I am one half of the lead developers of [PySSA](https://github.com/urban233/PySSA).
+## About Me 👩🏻‍💻
+- I'm currently studying Molecular Biology with a specialization in Life Science Informatics at the Westphalian University of Applied Sciences in Recklinghausen, Germany
+- Co-Lead Developer of [PySSA](https://github.com/urban233/PySSA)
 ---
 ## <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="pymol" width="24" height="24" align="bottom"/> PyMOL related projects
 [![](https://img.shields.io/badge/Repository-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup)
