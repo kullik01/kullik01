@@ -6,22 +6,18 @@
 - 💻 I am one half of the lead developers of [PySSA](https://github.com/urban233/PySSA).
 ---
 ## <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="pymol" width="24" height="24" align="bottom"/> PyMOL related projects
-- Unofficial PyMOL Windows Python Setup - https://github.com/kullik01/pymol-open-source-windows-setup
-- Unofficial PyMOL Linux Python Wheels - https://github.com/kullik01/pymol-open-source-linux-build
-- Unofficial PyMOL Linux Python Setup - https://github.com/kullik01/pymol-open-source-linux-setup <br/>
-Other PyMOL Python Wheels and Setups are available at: https://github.com/urban233
+[![](https://img.shields.io/badge/Repository-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup)
+[![](https://img.shields.io/badge/Latest_Release-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup/releases)
+### Unofficial PyMOL Python wheel files:
+[![](https://img.shields.io/badge/PyPI-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org/project/pymol-open-source-whl/)
+[![](https://img.shields.io/badge/Repository-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/urban233/pymol-open-source-whl/)
 ---
 ## 🧰 Toolbox
-<p align="center">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="40" height="40"/>
-  <img src="https://camo.githubusercontent.com/a66286465acfe2746086a68f894b7a057e86acf6298c0473f7a95861aea99af7/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f652f65362f507974686f6e5f616e645f51742e737667" alt="PyQt" width="40" height="40"/>
-  <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="PyMOL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/sokrypton/ColabFold/main/.github/ColabFold_Marv_Logo.png" alt="ColabFold" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt="Markdown" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fedora_logo.svg" alt="Fedora" width="40" height="40"/>
-</p>
-<br/>
-
-
+[![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/PyQt-2cde85.svg?style=for-the-badge&logo=Python&logoColor=white)](https://riverbankcomputing.com/software/pyqt/intro)
+[![](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white)](https://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/PyMOL-52ba52?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/schrodinger/pymol-open-source)
+[![](https://img.shields.io/badge/ColabFold-d8160a?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sokrypton/ColabFold)
+![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+[![](https://img.shields.io/badge/AlmaLinux-000000.svg?style=for-the-badge&logo=AlmaLinux&logoColor=white)](https://almalinux.org/)
+[![](https://img.shields.io/badge/Ubuntu-E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white)](https://ubuntu.com/)
