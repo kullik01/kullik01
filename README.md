@@ -28,16 +28,15 @@
 <p>
   <strong>Tools:</strong><br>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"><img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm"/></a>
-  <a href="https://pypi.org/" target="_blank"><img src="https://img.shields.io/badge/PyPI-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white" alt="PyPI"/></a>
-    
   <a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt="IntelliJ IDEA"/></a>
-  <a href="https://gradle.org/" target="_blank"><img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle"/></a>
-  
+
+  <a href="https://qodana.cloud/" target="_blank"><img src="https://img.shields.io/badge/Qodana-7c53f7?style=for-the-badge" alt="Qodana"/></a>
   
   <a href="https://pymol.org/2/" target="_blank"><img src="https://img.shields.io/badge/PyMOL-369B36?style=for-the-badge" alt="PyMOL"/></a>
   <a href="https://github.com/sokrypton/ColabFold" target="_blank"><img src="https://img.shields.io/badge/ColabFold-d8160a?style=for-the-badge" alt="ColabFold"/></a>  
-
-  <a href="https://qodana.cloud/" target="_blank"><img src="https://img.shields.io/badge/Qodana-7c53f7?style=for-the-badge" alt="Qodana"/></a>  
+  
+  <a href="https://sqlite.org/index.html" target="_blank"><img src="https://img.shields.io/badge/SQLite-268fd3?style=for-the-badge" alt="SQLite"/></a>
+  <a href="https://dbeaver.io/" target="_blank"><img src="https://img.shields.io/badge/DBeaver-43322b?style=for-the-badge" alt="DBeaver"/></a>  
 </p>
 
 <p>
