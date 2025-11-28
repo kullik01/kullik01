@@ -17,7 +17,7 @@
 <p>
   <strong>Languages:</strong><br>
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-    <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java-e76f01?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+    <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java-e76f01?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
 </p>
 
 <p>
@@ -35,7 +35,7 @@
   <a href="https://pymol.org/2/" target="_blank"><img src="https://img.shields.io/badge/PyMOL-369B36?style=for-the-badge" alt="PyMOL"/></a>
   <a href="https://github.com/sokrypton/ColabFold" target="_blank"><img src="https://img.shields.io/badge/ColabFold-d8160a?style=for-the-badge" alt="ColabFold"/></a>  
   
-  <a href="https://sqlite.org/index.html" target="_blank"><img src="https://img.shields.io/badge/SQLite-268fd3?style=for-the-badge" alt="SQLite"/></a>
+  <a href="https://sqlite.org/index.html" target="_blank"><img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/></a>
   <a href="https://dbeaver.io/" target="_blank"><img src="https://img.shields.io/badge/DBeaver-43322b?style=for-the-badge" alt="DBeaver"/></a>  
 </p>
 
