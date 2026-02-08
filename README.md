@@ -1,17 +1,30 @@
 <h1>Hey, I'm Hannah 🙋🏻‍♀️</h1>
 
----
-## About Me 👩🏻‍💻
+### About Me 👩🏻‍💻
 - I'm currently studying Molecular Biology with a specialization in Life Science Informatics at the Westphalian University of Applied Sciences in Recklinghausen, Germany
 - Co-Lead Developer of [PySSA](https://github.com/urban233/PySSA)
+
 ---
+
 ## <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="pymol" width="24" height="24" align="bottom"/> PyMOL related projects
 [![](https://img.shields.io/badge/Repository-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup)
 [![](https://img.shields.io/badge/Latest_Release-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup/releases)
 ### Unofficial PyMOL Python wheel files:
 [![](https://img.shields.io/badge/PyPI-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org/project/pymol-open-source-whl/)
 [![](https://img.shields.io/badge/Repository-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/urban233/pymol-open-source-whl/)
+
 ---
+
+### ⭐ Certificates
+<p>
+  <a href="https://badges.parchment.com/public/assertions/QIJ_6iLtTGe9RLS44Io4Ig?identity__email=hannah.kullik@studmail.w-hs.de&action=download" target="_blank">
+    <img src="https://media.badges.parchment.com/uploads/badges/assertion-kfzrvZImQDeODIe_o7_H6A.png?versionId=sg8ZBd1pkUiuockFuo1pM13Dcc47sSuS" alt="Badge" width="45" align="middle" />
+  Visualizing Science with PyMOL 3
+  </a>
+</p>
+
+---
+
 ### 🧰 Toolbox
 
 <p>
@@ -43,5 +56,6 @@
   <strong>Platforms:</strong><br>
   <a href="https://www.microsoft.com/windows/" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>
   <a href="https://www.ubuntu.com/" target="_blank"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/></a>
-  <a href="https://almalinux.org/" target="_blank"><img src="https://img.shields.io/badge/AlmaLinux-000000.svg?style=for-the-badge&logo=almalinux&logoColor=white" alt="AlmaLinux"/></a>
+  <a href="https://www.almalinux.org/" target="_blank"><img src="https://img.shields.io/badge/AlmaLinux-000000.svg?style=for-the-badge&logo=almalinux&logoColor=white" alt="AlmaLinux"/></a>
+  <a href="https://www.opensuse.org/" target="_blank"><img src="https://img.shields.io/badge/openSUSE-0f3d36.svg?style=for-the-badge&logo=opensuse&logoColor=white" alt="openSUSE"/></a>
 </p>
