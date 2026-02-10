@@ -18,7 +18,7 @@
 
 ---
 
-### <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="pymol" width="170" height="170" align="left"/> PyMOL related projects
+### <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="pymol" width="180" height="180" align="left"/> PyMOL related projects
 [![](https://img.shields.io/badge/Repository-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup)
 [![](https://img.shields.io/badge/Latest_Release-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup/releases)
 #### Unofficial PyMOL Python wheel files:
