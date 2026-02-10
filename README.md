@@ -1,15 +1,24 @@
-<h1>Hey, I'm Hannah 🙋🏻‍♀️</h1>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey,%20I'm%20Hannah%20🙋🏻‍♀️&fontAlign=50&section=header&reversal=false&fontSize=40&desc=%20Research%20Software%20Engineering%20|%20Computational%20Molecular%20Biology%20|%20Open%20Source&descAlign=50&descAlignY=50&textBg=false&fontAlignY=30" alt="Header"/>
+</div>
 
 ### About Me 👩🏻‍💻
-- I'm currently studying Molecular Biology with a specialization in Life Science Informatics at the Westphalian University of Applied Sciences in Recklinghausen, Germany
+- I'm a graduate student in Molecular Biology specializing in Life Science Informatics
 - Co-Lead Developer of [PySSA](https://github.com/urban233/PySSA)
+- Lead Developer of [Focus Bean](https://github.com/kullik01/Focus-Bean)
+  
+<p>
+  <a href="https://pubs.acs.org/doi/full/10.1021/acs.jcim.5c00797" target="_blank"><img src="https://img.shields.io/badge/Publication-ACS_J._Chem._Inf._Model.-003E74.svg?style=for-the-badge" alt="Publication Badge"/></a> <a href="https://urban233.github.io/PySSA/index.html" target="_blank"><img src="https://img.shields.io/badge/PySSA-367af6.svg?style=for-the-badge" alt="PySSA website"/></a> <a href="https://pymolwiki.org/index.php/PySSA" target="_blank"><img src="https://img.shields.io/badge/PyMOL_Wiki-PySSA-369B36.svg?style=for-the-badge" alt="PyMOL Wiki Badge"/></a>
+
+  [![Focus Bean](https://img.shields.io/badge/FocusBean-602718?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/kullik01/Focus-Bean)
+</p>
 
 ---
 
-## <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="pymol" width="24" height="24" align="bottom"/> PyMOL related projects
+### <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="pymol" width="18" height="18" align="bottom"/> PyMOL related projects
 [![](https://img.shields.io/badge/Repository-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup)
 [![](https://img.shields.io/badge/Latest_Release-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup/releases)
-### Unofficial PyMOL Python wheel files:
+#### Unofficial PyMOL Python wheel files:
 [![](https://img.shields.io/badge/PyPI-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org/project/pymol-open-source-whl/)
 [![](https://img.shields.io/badge/Repository-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/urban233/pymol-open-source-whl/)
 
@@ -30,7 +39,8 @@
 <p>
   <strong>Languages:</strong><br>
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-    <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java-e76f01?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="https://www.java.com/en/" target="_blank"><img src="https://img.shields.io/badge/Java-e76f01?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></a>
+  <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
 </p>
 
 <p>
