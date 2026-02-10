@@ -18,12 +18,25 @@
 
 ---
 
-### <img src="https://github.com/schrodinger/pymol-open-source/blob/master/data/pymol/icons/icon2.svg" alt="pymol" width="200" height="200" align="left"/> PyMOL related projects
-[![](https://img.shields.io/badge/Repository-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup)
-[![](https://img.shields.io/badge/Latest_Release-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup/releases)
-#### Unofficial PyMOL Python wheel files:
-[![](https://img.shields.io/badge/PyPI-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org/project/pymol-open-source-whl/)
-[![](https://img.shields.io/badge/Repository-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/urban233/pymol-open-source-whl/)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/schrodinger/pymol-open-source/master/data/pymol/icons/icon2.svg" width="80" />
+</p>
+
+<h3 align="center">PyMOL™ related projects</h3>
+
+<p align="center">
+  <em>Developing open-source solutions for the global research community.</em>
+</p>
+
+<div align="center">
+
+**PyMOL™ Open Source Setup** - *Offers unofficial, cross-platform builds of the open-source version of PyMOL™.* [![](https://img.shields.io/badge/Repository-pymol--open--source--setup-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/kullik01/pymol-open-source-setup)
+
+<br/>
+
+**Unofficial PyMOL™ Wheels** - *Provides unofficial pre-compiled wheels for the open-source version of PyMOL™.* [![](https://img.shields.io/badge/PyPI-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=PyPI&logoColor=white)](https://pypi.org/project/pymol-open-source-whl/) [![](https://img.shields.io/badge/Repository-pymol--open--source--whl-3775A9.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/urban233/pymol-open-source-whl/)
+
+</div>
 
 ---
 
