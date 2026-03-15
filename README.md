@@ -37,9 +37,16 @@ allowing scientists to easily predict, analyze, and visualize 3D protein structu
 
 ### ⭐ Certificates
 <p>
-  <a href="https://badges.parchment.com/public/assertions/QIJ_6iLtTGe9RLS44Io4Ig?identity__email=hannah.kullik@studmail.w-hs.de&action=download" target="_blank">
+  <a href="https://courses.schrodinger.com/certificates/xcbdg2dsad" target="_blank">
     <img src="https://media.badges.parchment.com/uploads/badges/assertion-kfzrvZImQDeODIe_o7_H6A.png?versionId=sg8ZBd1pkUiuockFuo1pM13Dcc47sSuS" alt="Badge" width="45" align="middle" />
   Visualizing Science with PyMOL 3
+  </a>
+</p>
+
+<p>
+  <a href="https://courses.schrodinger.com/certificates/hcu94t6jbk" target="_blank">
+    <img src="https://media.badges.parchment.com/uploads/badges/assertion-kfzrvZImQDeODIe_o7_H6A.png?versionId=sg8ZBd1pkUiuockFuo1pM13Dcc47sSuS" alt="Badge" width="45" align="middle" />
+  Introduction to Molecular Modeling in Drug Discovery
   </a>
 </p>
 
