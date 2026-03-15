@@ -38,14 +38,14 @@ allowing scientists to easily predict, analyze, and visualize 3D protein structu
 ### ⭐ Certificates
 <p>
   <a href="https://courses.schrodinger.com/certificates/xcbdg2dsad" target="_blank">
-    <img src="https://media.badges.parchment.com/uploads/badges/assertion-kfzrvZImQDeODIe_o7_H6A.png?versionId=sg8ZBd1pkUiuockFuo1pM13Dcc47sSuS" alt="Badge" width="45" align="middle" />
+    <img src="https://media.badges.parchment.com/uploads/badges/assertion-kfzrvZImQDeODIe_o7_H6A.png?versionId=sg8ZBd1pkUiuockFuo1pM13Dcc47sSuS" alt="Badge" width="60" align="middle" />
   Visualizing Science with PyMOL 3
   </a>
 </p>
 
 <p>
   <a href="https://courses.schrodinger.com/certificates/hcu94t6jbk" target="_blank">
-    <img src="Introduction_to_molecular_modeling_in_drug_discovery.png" alt="Badge" width="45" align="middle" />
+    <img src="Introduction_to_molecular_modeling_in_drug_discovery.png" alt="Badge" width="60" align="middle" />
   Introduction to Molecular Modeling in Drug Discovery
   </a>
 </p>
@@ -76,6 +76,7 @@ allowing scientists to easily predict, analyze, and visualize 3D protein structu
   <a href="https://pymol.org/2/" target="_blank"><img src="https://img.shields.io/badge/PyMOL-46aa46?style=for-the-badge" alt="PyMOL"/></a>
   <a href="https://www.schrodinger.com/products/maestro-viewer/" target="_blank"><img src="https://img.shields.io/badge/Maestro_Viewer-4aa8d2?style=for-the-badge" alt="Maestro Viewer"/></a>
   <a href="https://www.schrodinger.com/platform/products/maestro/" target="_blank"><img src="https://img.shields.io/badge/Schrödinger_Maestro-4aa8d2?style=for-the-badge" alt="Schrödinger Maestro"/></a>
+  <a href="https://www.schrodinger.com/platform/products/livedesign/" target="_blank"><img src="https://img.shields.io/badge/LiveDesign-4cb943?style=for-the-badge" alt="LiveDesign"/></a>
 
   <a href="https://github.com/sokrypton/ColabFold" target="_blank"><img src="https://img.shields.io/badge/ColabFold-d81609?style=for-the-badge" alt="ColabFold"/></a>
   <a href="https://github.com/soedinglab/MMseqs2" target="_blank"><img src="https://img.shields.io/badge/MMseqs2-0d78ac?style=for-the-badge" alt="MMseqs2"/></a>
